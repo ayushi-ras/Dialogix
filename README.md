@@ -1,6 +1,3 @@
-Certainly! Here's the README.md file in plain markdown format for your Dialogix GitHub repository:
-
-```markdown
 # Dialogix
 
 Dialogix is a chat application powered by advanced language models to facilitate engaging and dynamic conversations.
@@ -21,7 +18,7 @@ Check out the live demo: [Dialogix Demo](https://dialogix-seven.vercel.app/)
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ayushi-ras/Dialogix.git
+git clone https://github.com/ayushi-ras/Dialogix.gitgithub.com/ayushi-ras/Dialogix.git
 ```
 
 ### Install Dependencies
